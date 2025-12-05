@@ -4,10 +4,11 @@
 # scikit-learn==1.2.2
 # joblib
 
-
 flask
+flask-cors
 pandas
 numpy
 joblib
 scikit-learn
 gunicorn
+

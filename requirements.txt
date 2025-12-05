@@ -1,5 +1,13 @@
+# flask
+# pandas
+# numpy==1.24.4
+# scikit-learn==1.2.2
+# joblib
+
+
 flask
 pandas
-numpy==1.24.4
-scikit-learn==1.2.2
+numpy
 joblib
+scikit-learn
+gunicorn
